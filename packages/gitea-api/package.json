@@ -1,0 +1,19 @@
+{
+  "name": "@zhzx03/gitea-api",
+  "version": "1.0.0",
+  "description": "Nodejs Gitea API",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "_Kerman <KermanX@qq.com>",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+    
+  }
+}
